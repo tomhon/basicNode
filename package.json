@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "restify": "^4.3.0"
   },
   "devDependencies": {},
   "scripts": {
