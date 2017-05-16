@@ -11,6 +11,6 @@ server.listen(process.env.port || 3978, function () {
 
 server.get('/', function (req, res) { 
 
-    res.send('SoundCloud Jammers Running' )
+    res.send('Basic Node Running' )
 
 }); 
